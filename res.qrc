@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="no">res/no.png</file>
+        <file alias="yes">res/yes.png</file>
+        <file alias="wrong">res/no.wav</file>
+        <file alias="correct">res/yes.wav</file>
+    </qresource>
+</RCC>
